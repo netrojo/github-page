@@ -1,9 +1,9 @@
 body > h1{
     color: red;
-    
+
 }
 /* the header color */
 h2{
     color: aqua;
-    outline: 1px black;
+    outline: 1px solid black;
 }
