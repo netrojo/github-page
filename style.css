@@ -4,6 +4,7 @@ body > h1{
 }
 /* the header color */
 h2{
-    color: aqua;
-    outline: 1px solid black;
+    color: blue;
+    padding: auto;
+    font-size: 30px;
 }
